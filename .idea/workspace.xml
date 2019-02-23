@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="18b83f75-348b-4aa2-8c4f-70f42597d224" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -149,8 +148,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="375" />
-    <option name="y" value="74" />
+    <option name="x" value="399" />
+    <option name="y" value="441" />
     <option name="width" value="1214" />
     <option name="height" value="818" />
   </component>
@@ -273,12 +272,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550895741105</updated>
       <workItem from="1550895746691" duration="649000" />
-      <workItem from="1550896485423" duration="3210000" />
+      <workItem from="1550896485423" duration="3384000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3859000" />
+    <option name="totallyTimeSpent" value="4033000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="375" y="74" width="1214" height="818" extended-state="0" />
@@ -521,7 +520,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
